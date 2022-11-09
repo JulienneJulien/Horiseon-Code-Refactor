@@ -6,4 +6,9 @@
 <li>Created a new repository on my GitHub account and cloned it to computer.</li>
 <li>Deployed project using git commands and pushed completed code to my GitHub repository.</li>
 
+## Link To Deployed Project/Application
+https://juliennejulien.github.io/JJ-WK1-Challenge-Repo/
+
 ## Visuals
+ <img src="Screenshot 1 REPO.png" />
+ <img src="Screenshot 2 REPO.png" />
