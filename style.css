@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-/* Image Hero Class Added With Background Image */
+/* Hero Class selector Added to Figure Element With Background Image */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,31 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* Float Styles Added */
+/* Main Element Style Added*/
+main {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* Service Class Added to Main Section Elements */
+.service-main {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.service-main img {
+    max-height: 200px;
+}
+
+.service-main h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/* Float Styles Added to Main Section images*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -68,13 +92,7 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* Main Style Added*/
-main {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
-}
-/* Benefit Class selectors Added to Aside Element */
+/* Benefit Class Added to Aside Section Elements */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,38 +104,20 @@ main {
     background-color: #2589bd;
 }
 
-.benefit {
+.benefit-aside {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit h3 {
+.benefit-aside h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit img {
+.benefit-aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
-/* Service Class Added to Section Element */
-.service {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.service img {
-    max-height: 200px;
-}
-
-.service h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 /* Footer */
 footer {
