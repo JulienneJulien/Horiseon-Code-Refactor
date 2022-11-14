@@ -1,4 +1,4 @@
-# JJ-WK1-Challenge-Repo
+# Horiseon-Code-Refactor
 ## Description
 <H4>My first week feature request challenge project!</H4>
 <li> Refactored existing code on a marketing agency existing site to make it more accessible.</li>
