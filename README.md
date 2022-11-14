@@ -7,7 +7,7 @@
 <li>Deployed project using git commands and pushed completed code to my GitHub repository.</li>
 
 ## Link To Deployed Project/Application
-https://juliennejulien.github.io/JJ-WK1-Challenge-Repo/
+https://juliennejulien.github.io/Horiseon-Code-Refactor/
 
 ## Visuals
  <img src="./assets/images/Screenshot%201%20REPO.png" />
