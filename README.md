@@ -10,5 +10,5 @@
 https://juliennejulien.github.io/JJ-WK1-Challenge-Repo/
 
 ## Visuals
- <img src="Screenshot 1 REPO.png" />
- <img src="Screenshot 2 REPO.png" />
+ <img src="./assets/images/Screenshot%201%20REPO.png" />
+ <img src="./assets/images/Screenshot%202%20REPO.png" />
